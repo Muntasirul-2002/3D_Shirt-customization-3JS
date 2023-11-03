@@ -2,4 +2,4 @@
 
 
 # Demo
-https://3d-shirt-customization-by-islam.netlify.app/
+https://3dshirtby-muntasirul.netlify.app/
